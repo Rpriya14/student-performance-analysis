@@ -24,4 +24,4 @@ Analyze student marks and attendance data using Python to understand performance
 
 ## 📂 Files Included
 - students1.csv
-- analysis(42).ipynb
+- student_performance_analysis.ipynb
